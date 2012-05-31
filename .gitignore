@@ -1,3 +1,5 @@
 README
 *.tgz
 logo.*
+.svn
+.svn/entries
